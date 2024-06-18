@@ -16,8 +16,7 @@ This is a mini project created using AWS Services - Amazon S3 and Amazon QuickSi
 - [Resources](#resources)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
-- [License & Credits](#license&credits)
-- [Contributors](#contributors)
+- [License & Credits](#license)
 
 
 
