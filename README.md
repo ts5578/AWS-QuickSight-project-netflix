@@ -93,6 +93,7 @@ Connect the S3 bucket with Amazon Quicksight to create visualizations.
 
 This project provides hands-on experience in using AWS services to create visualizations from large datasets. By following the instructions provided, you can learn how to use Amazon S3 and Amazon Quicksight to create compelling visualizations. Feel free to customize the project to your liking and experiment with different datasets to gain more insights.
 
+![Results](./assets/result2.png)
 
 ## License
 This project is based on the tutorial [Analyse Netflix Data with Amazon QuickSight](https://www.youtube.com/live/SnFDQ-4Il2g?si=WScLinPe7GCfbSTz) by [NextWork](https://www.youtube.com/@itsnextwork). 
